@@ -1,0 +1,1 @@
+It helps tremendously since you don’t have to browse through every line of code, it just lists you the lines where there are some differences.
