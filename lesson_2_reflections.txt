@@ -1,1 +1,3 @@
 when i create a respository i can then use git commands like commit and when i have the Internet connection I can synch my repository with the online one
+
+staging area vs working directory, staging area is sort of temp directory where files are not yet commited.
