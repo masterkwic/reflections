@@ -8,4 +8,8 @@ staging area vs working directory, staging area is sort of temp directory where 
 I can make sure that i have only 1 file in the staging area.
 
 
-It would be helpful if I wanted to experiment, branching would keep it clean and safe, in case the experiment goes wrong ;) 
+It would be helpful if I wanted to experiment, branching would keep it clean and safe, in case the experiment goes wrong ;)
+
+The diagrams helped me to visualise the branch structure a lot. 
+
+ 
