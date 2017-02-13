@@ -12,4 +12,8 @@ It would be helpful if I wanted to experiment, branching would keep it clean and
 
 The diagrams helped me to visualise the branch structure a lot. 
 
-Automatic merge merges changes made on the same file made (probably) by 2 different programmers working on a different part of the code. 
+Automatic merge merges changes made on the same file made (probably) by 2 different programmers working on a different part of the code.
+
+Automatic merges pros : it's fast and accurate in the way that it seems what code is different, cons is that sometimes there may be conflicts and we will have to do it manually as well. Manual merges pros : you merge exactly what you want, but cons are that you may miss changes from anothe person or just make a typo.
+
+ 
