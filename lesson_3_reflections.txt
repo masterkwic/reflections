@@ -11,3 +11,6 @@ Many benefits ;);)
 
 
 Without git and github I quess i would have to manually create versions of my files on for example dropbox and then if I wanted someone to review it I would just ask them to take a look at my file. It would be less complicated then remembering all commands from git but it would also be very limited.
+
+Separate branch is for experimenting. Master can also be used for experimenting but it's nicer to have one "official - good" branch.
+
