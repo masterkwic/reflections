@@ -1,3 +1,5 @@
 Why would you want to create a remote rather than to have all the files stored on your local machine?
 
 Because if my local disc fails, I always have the copy of the files on the remote. I can also upload any file from any place and it will land in my remote repository.
+
+I would want changes to be pulled manually bcoz i don't know who and when may add some changes to the remote repo. I don't want to pull all the changes whenever they appear in the remote.
