@@ -8,3 +8,6 @@ I would want changes to be pulled manually bcoz i don't know who and when may ad
 Forking clones a branch on github onto your github account. cloning clones it onto your local machine and branches can be present both on your local machine andyour github.
 
 Many benefits ;);)
+
+
+Without git and github I quess i would have to manually create versions of my files on for example dropbox and then if I wanted someone to review it I would just ask them to take a look at my file. It would be less complicated then remembering all commands from git but it would also be very limited.
