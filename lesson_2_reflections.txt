@@ -12,4 +12,4 @@ It would be helpful if I wanted to experiment, branching would keep it clean and
 
 The diagrams helped me to visualise the branch structure a lot. 
 
- 
+Automatic merge merges changes made on the same file made (probably) by 2 different programmers working on a different part of the code. 
