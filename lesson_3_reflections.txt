@@ -1,1 +1,3 @@
 Why would you want to create a remote rather than to have all the files stored on your local machine?
+
+Because if my local disc fails, I always have the copy of the files on the remote. I can also upload any file from any place and it will land in my remote repository.
